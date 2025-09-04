@@ -16,7 +16,7 @@ export default function Hero() {
           <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
             <p className="text-sm text-brand font-semibold">Hello, I am</p>
             <h1 className="mt-2 text-4xl md:text-6xl font-bold font-display">SUKUMARAN S</h1>
-            <p className="mt-2 text-xl text-neutral-700 dark:text-neutral-300">!FRONTEND DEVELOPER! </p>
+            <p className="mt-2 text-xl text-neutral-700 dark:text-neutral-300">DEV FRONTEND DEVELOPER! </p>
             <p className="mt-6 text-neutral-600 dark:text-neutral-300 max-w-xl">Passionate Front End Developer eager to begin a career in web development. Proficient in key frontend technologies and passionate about creating seamless user experiences. Ready to collaborate and learn, contributing to innovative web applications and applying strong organizational and communication skills.</p>
             <div className="mt-6 flex gap-3">
               <a href="#projects" className="rounded-md bg-brand px-4 py-2 text-white font-semibold">See Projects</a>
