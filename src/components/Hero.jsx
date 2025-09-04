@@ -1,6 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import profile from 'assets\sukumar.jpg'
+// import profile from 'assets\sukumar.jpg'
+import profile from '../../assets/sukumar.jpg'
 export default function Hero() {
   return (
     <section className="relative min-h-[72vh] flex items-center overflow-hidden" id="home">
